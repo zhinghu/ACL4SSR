@@ -1,5 +1,5 @@
 # 内容：GFWList 黑名单
-# 数量：4293条
+# 数量：4294条
 DOMAIN-SUFFIX,*.pimg.tw
 DOMAIN-SUFFIX,*.sf.net
 DOMAIN-SUFFIX,*.tuzaijidi.com
@@ -2387,6 +2387,7 @@ DOMAIN-SUFFIX,mfxmedia.com
 DOMAIN-SUFFIX,mgoon.com
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,mh4u.org
+DOMAIN-SUFFIX,mhwindow.org
 DOMAIN-SUFFIX,microvpn.com
 DOMAIN-SUFFIX,mihua.org
 DOMAIN-SUFFIX,mij.rip
